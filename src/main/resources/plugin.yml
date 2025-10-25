@@ -1,0 +1,8 @@
+name: BlockRegenManager
+main: com.gmail.bobason01.BlockRegenManager
+version: 1.0
+api-version: 1.19
+depend:
+  - WorldGuard
+softdepend:
+  - ItemsAdder
